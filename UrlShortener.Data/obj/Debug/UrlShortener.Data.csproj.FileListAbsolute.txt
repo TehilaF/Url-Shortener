@@ -1,0 +1,8 @@
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\bin\Debug\UrlShortener.Data.dll.config
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\bin\Debug\UrlShortener.Data.dll
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\bin\Debug\UrlShortener.Data.pdb
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\obj\Debug\UrlShortener.Data.csprojResolveAssemblyReference.cache
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\obj\Debug\UrlShortener.Data.csproj.CoreCompileInputs.cache
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\obj\Debug\UrlShortener.Data.dll
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\obj\Debug\UrlShortener.Data.pdb
+c:\users\tehila\source\repos\UrlShortener\UrlShortener.Data\bin\Debug\shortid.dll
